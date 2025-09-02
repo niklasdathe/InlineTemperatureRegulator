@@ -1,9 +1,9 @@
 # InlineTemperatureRegulator
 
-Dieses Projekt hatte das Ziel, eine Temperaturregelung für einen Elektroheizer zu ermöglichen, der ab Werk keine eigene Steuerung besitzt.
+This project was aimed at enabling temperature control for an electric heater that originally had no built-in regulation.
 
 <img width="1307" height="1009" alt="image" src="https://github.com/user-attachments/assets/c8161f2c-85ee-4c19-9ed9-f300a58b5139" />
 
-Als mein bester Freund mir von seiner Situation erzählte – der Elektroheizer im Badezimmer seiner neuen Wohnung hatte keine Temperaturregelung – war er unsicher, wie er damit umgehen sollte. Wenn der Heizer dauerhaft eingesteckt bleibt, drohen hohe Energiekosten. Wird er gar nicht genutzt, besteht wiederum die Gefahr von Schimmelbildung. Da hatte ich das Gefühl, helfen zu können.
+When my best friend told me about the situation in his new apartment – the bathroom heater had no temperature control – he wasn’t sure what to do. If the heater stayed plugged in all the time, it could lead to a massive energy bill. If he left it unplugged, mold could start to form. I felt like I could help out with a simple solution.
 
-Das Projekt entstand überwiegend aus Teilen, die ich ohnehin schon hatte. Ziel war eine schnelle, einfache und praktische Lösung.
+The project was mostly built from parts I already had on hand, with the goal of creating something quick, practical, and effective.
